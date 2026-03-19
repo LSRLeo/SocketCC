@@ -8,17 +8,6 @@ Distributes prime-finding work across multiple nodes using sockets in both Java 
 
 ## C++ Version
 
-### Compile
-
-```bash
-make
-```
-
-The Makefile incrementally compiles:
-- `Head.o`
-- `Node.o`
-- `DENSocket.o`
-- `DENServerSocket.o`
 
 ### Run
 
